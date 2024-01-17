@@ -1,7 +1,6 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://OlegBarabash.github.io/task-planner/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
